@@ -262,7 +262,7 @@ nav a.active{
     align-items:center;
 }
 .ticker{
-    --speed: 7s; /* longer = slower */
+    --speed: 5s; /* longer = slower */
     width:100%;
     display:block;
     white-space:nowrap;
